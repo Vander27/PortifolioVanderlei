@@ -105,10 +105,7 @@
     <Content Include="dist\js\sb-admin-2.js" />
     <Content Include="dist\js\sb-admin-2.min.js" />
     <Content Include="Foto\Logo.png" />
-    <Content Include="Foto\Mundo.gif" />
-    <Content Include="Foto\Olho.jpg" />
     <Content Include="Foto\Site1.png" />
-    <Content Include="Foto\Tec.gif" />
     <Content Include="Foto\VJC.png" />
     <Content Include="Global.asax" />
     <Content Include="js\sb-admin-2.js" />

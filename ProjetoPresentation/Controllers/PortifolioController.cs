@@ -14,12 +14,7 @@ namespace ProjetoPresentation.Controllers
             return View();
         }
 
-        // GET: Portifolio/Indice
-        public ActionResult Indice()
-        {
-            return View();
-        }
-
+        
         // GET: Portifolio/Contato
         public ActionResult Contato()
         {
