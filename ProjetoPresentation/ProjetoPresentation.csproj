@@ -238,7 +238,7 @@
     <Content Include="less\mixins.less" />
     <Content Include="less\sb-admin-2.less" />
     <Content Include="less\variables.less" />
-    <Content Include="Arquivo\CurriculoVanderleiCampos.pdf" />
+    <Content Include="Arquivo\Curriculum Vanderlei Campos 2019.pdf" />
     <None Include="packages.config" />
     <Content Include="Views\Shared\Layout.cshtml" />
     <Content Include="Scripts\bootstrap.min.js.map" />
